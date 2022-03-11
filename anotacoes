@@ -1,0 +1,4 @@
+nome.upper() Deixa todas a letras maúsculas
+nome.lower() deixa todas as letras minúsculas
+len(nome) conta quantos caracteres tem a STR
+colocar .strip no final do str, remove todos os espaços
