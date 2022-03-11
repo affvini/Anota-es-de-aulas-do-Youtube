@@ -2,3 +2,4 @@ nome.upper() Deixa todas a letras maúsculas
 nome.lower() deixa todas as letras minúsculas
 len(nome) conta quantos caracteres tem a STR
 colocar .strip no final do str, remove todos os espaços
+len conta os caracteres, é importante colocar - (menos) nome.count (' ') espaço dentro das aspas para ele não contar os espaços (caso seja necessário)
